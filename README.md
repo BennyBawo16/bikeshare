@@ -56,7 +56,7 @@ Happy exploring the world of bikeshare data! If you have any questions or feedba
 
 Enjoy,  
 
-## Clode Breakdown
+## Code Breakdown
 ### Date created
 Include the date you created this project and README file.
 
