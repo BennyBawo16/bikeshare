@@ -1,3 +1,7 @@
+
+### Date created
+August 13 2023
+
 # Bikeshare Project
 
 Welcome to the **Bikeshare Project**, an interactive Python program that analyzes bikeshare data from three major cities: Chicago, New York City, and Washington, D.C. This project is part of the Udacity Data Analyst Nanodegree program.
@@ -54,21 +58,11 @@ The Bikeshare Project is an assignment provided by Udacity as part of the Data A
 
 Happy exploring the world of bikeshare data! If you have any questions or feedback, feel free to reach out.
 
-Enjoy,  
+Enjoy,
+Benny  
 
-## Code Breakdown
-### Date created
-Include the date you created this project and README file.
 
-### Project Title
-Replace the Project Title
 
-### Description
-Describe what your project is about and what it does
 
-### Files used
-Include the files used
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
